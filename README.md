@@ -1,6 +1,6 @@
 # Hai, Saya Evan Christian! 👋
 
-Saya adalah mahasiswa **D3 Teknik Informatika di Universitas Sebelas Maret (UNS)** yang antusias terhadap pengembangan perangkat lunak, baik itu *Full-stack Web Development*, IoT, maupun *Game Development*.
+Saya adalah orang asli sleman yang berdomisili di surakarta yang antusias terhadap pengembangan perangkat lunak, baik itu *Full-stack Web Development*, IoT, maupun *Game Development*.
 
 - 🌱 Saat ini sedang mengeksplorasi dan membangun proyek menggunakan **Laravel, Vue.js, dan Inertia.js**.
 - 💼 Berpengalaman membuat sistem nyata seperti **Web Point of Sale (POS) untuk UMKM** dan prototipe **Game 3D menggunakan Unity Engine**.
